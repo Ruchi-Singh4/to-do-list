@@ -2,7 +2,7 @@
 
 Manage your todos efficiently with this simple ToDo application built with React.
 
-![Screenshot (25)](https://github.com/rohitvinodyadav9/Unified-Mentors/assets/149653208/9548cf25-7f92-4c40-8f0e-bd056f1625c0)
+![image](https://github.com/Ruchi-Singh4/to-do-list/assets/139795719/9cd5a0b7-dcab-49a9-afa2-6badcb789bea)
 
 
 ## Table of Contents
